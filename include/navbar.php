@@ -1,4 +1,4 @@
-<html lang="en">
+
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -123,6 +123,7 @@
                             <li>
                                 <a href="index.html" class="active"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
                             </li>
+							<li><a href="../Users/UsersList.php"><i class="fa fa-users fa-fw"></i> Users</a></li>
                             <li>
                                 <a href="#"><i class="fa fa-users fa-fw"></i> Users<span class="fa arrow"></span></a>
                                 <ul class="nav nav-second-level">
@@ -184,4 +185,3 @@
         <script src="../js/startmin.js"></script>
 
     </body>
-</html>
